@@ -4,7 +4,7 @@
 # In[9]:
 
 
-pip install numpy==1.24.3 pandas==1.4.4
+pip install numpy<2.0,>=1.26.0  pandas==2.2.3
 
 
 # In[22]:
